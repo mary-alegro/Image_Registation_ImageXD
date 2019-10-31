@@ -1,0 +1,8 @@
+jupyter
+scipy
+itkwidgets==0.18.0
+scikit-image
+numpy
+matplotlib
+itk
+rise
